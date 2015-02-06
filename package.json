@@ -1,0 +1,19 @@
+{
+  "name": "is-square",
+  "version": "0.0.0",
+  "description": "Check whether a given number is a square.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "square",
+    "math",
+    "numbers"
+  ],
+  "author": "Jonathan Svärdén <jonathan.svarden@gmail.com> (http://svarden.se)",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "0.0.4"
+  }
+}
