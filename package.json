@@ -1,7 +1,11 @@
 {
   "name": "is-square",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check whether a given number is a square.",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/cfj/is-square.git"
+    },
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
