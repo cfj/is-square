@@ -1,6 +1,6 @@
 {
   "name": "is-square",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Check whether a given number is a square.",
   "main": "index.js",
   "scripts": {

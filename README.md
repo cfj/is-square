@@ -1,4 +1,4 @@
-# is-square
+# is-square [![Build Status](https://travis-ci.org/cfj/is-square.svg?branch=master)](https://travis-ci.org/cfj/is-square)
 
 > Check whether a given number is a square.
 
