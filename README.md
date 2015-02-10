@@ -1,4 +1,4 @@
-# is-square [![Build Status](https://travis-ci.org/cfj/is-square.svg?branch=master)](https://travis-ci.org/cfj/is-square)
+# is-square [![Build Status](https://travis-ci.org/cfj/is-square.svg?branch=master)](https://travis-ci.org/cfj/is-square) [![npm version](https://badge.fury.io/js/is-square.svg)](http://badge.fury.io/js/is-square)
 
 > Check whether a given number is a square.
 
