@@ -5,7 +5,5 @@ module.exports = function(num) {
         throw new TypeError('Expected a number');
     }
 
-    var sqrt = Math.sqrt(num);
-
-    return sqrt === Math.floor(sqrt);
+    return Number.isInteger(Math.sqrt(num));
 };
